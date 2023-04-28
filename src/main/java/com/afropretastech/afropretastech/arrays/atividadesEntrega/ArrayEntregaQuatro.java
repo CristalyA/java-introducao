@@ -1,5 +1,7 @@
 package com.afropretastech.afropretastech.arrays.atividadesEntrega;
 
+import java.util.Scanner;
+
 public class ArrayEntregaQuatro {
 
     public static void main(String[] args) {
